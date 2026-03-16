@@ -22,7 +22,7 @@
 
 ## 📫 Contact
 GitHub: https://github.com/divyamori
-LinkedIn: (add your LinkedIn link)
+LinkedIn: www.linkedin.com/in/divya-mori-343480a0
 
 ## 🚀 Featured Projects
 
