@@ -23,3 +23,25 @@
 ## 📫 Contact
 GitHub: https://github.com/divyamori
 LinkedIn: (add your LinkedIn link)
+
+## 🚀 Featured Projects
+
+
+### 💄 Beauty App
+Mobile application for beauty services.
+
+🔗 https://github.com/divyamori/beautyapp
+
+---
+
+### 🔥 TweetX Firebase
+Twitter-like app using Firebase backend.
+
+🔗 https://github.com/divyamori/Tweetxfirebase
+
+---
+
+### 🗳 Election App
+Mobile application for election-related features.
+
+🔗 https://github.com/divyamori/election
