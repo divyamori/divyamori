@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Divya Mori
 
-<!--
-**divyamori/divyamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Senior Mobile Developer with **9+ years of experience**  
+⚛️ **React Native Developer with 6+ years experience**  
+🚀 Passionate about building scalable and high-performance mobile applications.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React Native
+- TypeScript
+- JavaScript
+- Redux
+- WebSocket
+- AWS Amplify
+- REST APIs
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Featured Work
+- Healthcare Mobile Application
+- Image Editor with Skia Canvas
+- Real-time Data Dashboard using WebSocket
+- Push Notification System using AWS Amplify
+
+## 📫 Contact
+GitHub: https://github.com/divyamori
+LinkedIn: (add your LinkedIn link)
